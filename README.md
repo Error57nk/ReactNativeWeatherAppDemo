@@ -1,3 +1,6 @@
 # ReactNativeWeatherAppDemo
 
-## using @react-native-community/geolocation and react-native-weather-api with openweathermap api
+## using :: 
+## @react-native-community/geolocation 
+## react-native-weather-api 
+## openweathermap api
